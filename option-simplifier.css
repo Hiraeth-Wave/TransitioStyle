@@ -2,9 +2,9 @@
 @name          Option Simplifier
 @description   功能按钮精简器，支持隐藏界面上大部分的功能按钮。
 @preprocessor  transitio
-@version       1.3.0
-@homepageURL   https://github.com/QingFeng-awa/TransitioStyle
-@author        QingFeng
+@version       1.3.1
+@homepageURL   https://github.com/Hiraeth-Wave/TransitioStyle
+@author        Hiraeth
 @license     	GPL-3.0
 @var checkbox hide-input-expression "隐藏输入框“表情”选项" [0, "inline-flex", "none"]
 @var checkbox hide-input-screenshot "隐藏输入框“截图”选项" [0, "inline-flex", "none"]
