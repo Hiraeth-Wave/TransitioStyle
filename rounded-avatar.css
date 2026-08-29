@@ -17,5 +17,5 @@ div.avatar-native,
 /* 聊天页特殊消息（例如合并转发）头像 */
 div.avatar[data-v-4eb71541] {
     border-radius: 21% !important;
-    box-shadow: 2px 4px 5px 1px rgba(0, 0, 0, 0.3);
+    box-shadow: 2px 4px 5px 1px rgba(0, 0, 0, 0.12);
 }
