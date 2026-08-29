@@ -5,7 +5,7 @@ Hira 个人自用的 [Transitio](https://github.com/PRO-2684/transitio) 样式�
 
 ## Option Simplifier
 
-forked from [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes)，复刻了轻量工具箱的侧栏/输入框/聊天框精简功能并在此之上进行了扩展，支持隐藏大部分界面上的功能按钮。
+forked from [YatFanLan/Simplify-chat-boxes](https://github.com/YatFanLan/Simplify-chat-boxes)，复刻了轻量工具箱的侧栏/输入框/聊天框精简功能并在此之上进行了扩展，支持隐藏大部分界面上的功能按钮，同时提供了丰富的配置项，可以自由定义隐藏哪些按钮。
 
 ## Rounded Avatar Next
 
