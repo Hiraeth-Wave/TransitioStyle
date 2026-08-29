@@ -2,23 +2,20 @@
 @name          Rounded Avatar
 @description   使各种各样的头像变为圆角矩形。
 @preprocessor  transitio
-@version       1.0.0
+@version       1.0.1
 @homepageURL   https://github.com/Hiraeth-Wave/TransitioStyle
 @author        Hiraeth
 @license       GPL-3.0
 ==/UserStyle==*/
 
+/* 消息列表好友头像 */
 .avatar[data-v-4eb71541],
-.avatar[data-v-2e5b973a] {
-    /* 用户头像圆角控制 */
-    border-radius: 21%;
-    /*用户头像阴影控制  */
+/* 消息列表系统头像 */
+.avatar[data-v-2e5b973a],
+/* 聊天页常规消息头像 */
+div.avatar-native,
+/* 聊天页特殊消息（例如合并转发）头像 */
+div.avatar[data-v-4eb71541] {
+    border-radius: 21% !important;
     box-shadow: 2px 4px 5px 1px rgba(0, 0, 0, 0.3);
-}
-
-.recent-contact-item {
-    /* 消息框圆角 */
-    border-radius: 20px;
-    /* 消息框阴影 */
-    /* box-shadow: 2px 5px 10px 1px rgba(0,0,0,0.5); */
 }
